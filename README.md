@@ -304,4 +304,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **CrewAI Team**: For the excellent multi-agent framework
 - **Firecrawl**: For advanced web research capabilities
 - **OpenAI & Groq**: For powerful LLM APIs
-- **Streamlit**: For the beautiful web interface # ai-deep-research-agent-crewai
+- **Streamlit**: For the beautiful web interface
+- **Original AutoGen Version**: This CrewAI implementation was inspired by the original AutoGen deep research agent, but has been completely rewritten with a different architecture, framework, and enhanced features.
