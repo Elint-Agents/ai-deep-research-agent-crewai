@@ -295,6 +295,12 @@ Enable debug mode in the sidebar to see:
 4. Add tests if applicable
 5. Submit a pull request
 
+## 👨‍💻 Author
+
+**Gautam Prakash** - [@Gautamprakash17](https://github.com/Gautamprakash17)
+
+Lead developer of this AI Deep Research Agent with CrewAI implementation.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -306,3 +312,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **OpenAI & Groq**: For powerful LLM APIs
 - **Streamlit**: For the beautiful web interface
 - **Original AutoGen Version**: This CrewAI implementation was inspired by the original AutoGen deep research agent, but has been completely rewritten with a different architecture, framework, and enhanced features.
+# ai-deep-research-agent-crewai
